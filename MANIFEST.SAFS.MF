@@ -1,0 +1,15 @@
+Manifest-Version: 1.0 
+Class-Path: jakarta-regexp-1.3.jar 
+ safsautoandroid.jar 
+ safscust.jar 
+ safsdroid.jar 
+ safs-remotecontrol.jar 
+ safsmodel.jar 
+ jai_core.jar 
+ jai_codec.jar 
+ jai_imageio.jar 
+ jna.zip 
+ win32-x86.zip 
+ juniversalchardet-1.0.3.jar 
+ mail.jar 
+ commons-logging-1.1.1.jar

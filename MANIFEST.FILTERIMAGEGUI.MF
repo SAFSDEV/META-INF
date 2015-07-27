@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: safs.jar
+Main-Class: org.safs.image.filter.ImageFilterGUI
+
+
+

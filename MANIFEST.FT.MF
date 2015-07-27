@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: safs.jar jna.zip win32-x86.zip 
+
+
