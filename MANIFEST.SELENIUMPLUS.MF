@@ -3,8 +3,8 @@ Class-Path: safscust.jar
  safsmodel.jar jai_core.jar jai_codec.jar jna.zip 
  win32-x86.zip juniversalchardet-1.0.3.jar 
  jai_imageio.jar SeInterpreter.jar 
- json-20080701.jar 
+ org.json.jar 
  commons-logging-1.1.1.jar 
- mail.jar
+ javax.mail.jar
  
  
