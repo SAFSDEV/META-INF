@@ -6,5 +6,6 @@ Class-Path: safscust.jar
  org.json.jar 
  commons-logging-1.1.1.jar 
  javax.mail.jar
- 
+ AutoItX4Java.jar
+ jacob.jar
  
