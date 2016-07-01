@@ -8,5 +8,6 @@ Class-Path: safscust.jar
  commons-logging-1.1.1.jar 
  javax.mail.jar 
  AutoItX4Java.jar 
- jacob.jar
- 
+ jacob.jar 
+ groovy-all-2.4.3.jar 
+ spock-core-1.0-groovy-2.4.jar 
