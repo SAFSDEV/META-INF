@@ -1,0 +1,3 @@
+com.sun.org.apache.xalan.internal.xsltc.trax.TransformerFactoryImpl
+# com.sun.org.apache.xalan.internal.xsltc.trax.TransformerFactoryImpl is provided by JDK, we use it as default
+# org.apache.xalan.processor.TransformerFactoryImpl is provided by xalan, it is not guarantee to get it 
