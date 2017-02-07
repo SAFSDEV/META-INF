@@ -3,5 +3,6 @@ Class-Path: safs.jar
  SeInterpreter.jar 
  org.json.jar 
  commons-logging-1.1.1.jar 
+ commons-lang3-3.5.jar 
 
 
