@@ -11,7 +11,7 @@ Class-Path: safscust.jar
  javax.mail.jar 
  AutoItX4Java.jar 
  jacob.jar 
- groovy-all-2.4.3.jar 
+ groovy-all-2.4.7.jar 
  spock-core-1.0-groovy-2.4.jar 
  Saxon-HE-9.7.0-8.jar 
  httpclient5-5.0-alpha1.jar 
