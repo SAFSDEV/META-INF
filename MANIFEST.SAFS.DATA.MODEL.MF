@@ -1,0 +1,7 @@
+Manifest-Version: 1.0 
+Class-Path:  
+ commons-beanutils-1.9.3.jar 
+ hibernate-jpa-2.1-api-1.0.0.Final.jar 
+ ekspreso-event-creator-0.4.24-fat.jar 
+
+
