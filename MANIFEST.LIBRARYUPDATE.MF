@@ -1,5 +1,8 @@
 Manifest-Version: 1.0
 Main-Class: org.safs.install.LibraryUpdate
-
+Class-Path: 
+ jna-4.2.2.jar 
+ jna-platform-4.2.2.jar 
+ win32-x86.zip 
 
 
